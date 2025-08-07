@@ -1,0 +1,2 @@
+float64 my_float_field
+string my_string_field

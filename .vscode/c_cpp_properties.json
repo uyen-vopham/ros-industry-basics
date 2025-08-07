@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/uyen/Drone/drone_ws/install/takeoff_srv/include/**",
+        "/home/uyen/rosi_training/new_ws/install/simple_velocity_msg/include/**",
+        "/home/uyen/rosi_training/new_ws/install/perception_msgs/include/**",
+        "/home/uyen/ros2_basic/install/service_pkg/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/uyen/rosi_training/new_ws/src/my_cmake_package/include/**",
+        "/home/uyen/rosi_training/new_ws/src/my_cmake_package_new/include/**",
+        "/home/uyen/rosi_training/new_ws/src/perception_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
